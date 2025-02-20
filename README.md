@@ -1,0 +1,1 @@
+# digitalocean-static-assets-fix
